@@ -15,14 +15,14 @@ html {
 }
 
 .imagesT h1{
-    font-size: 2.5rem;
+    font-size: 2.1rem;
     font-weight: bold;
     width: 5rem;
     font-family: sans-serif;
 }
 
 .top_burger h1{
-font-size: 2.3rem;
+font-size: 2.1rem;
   font-weight: bold;
   font-family: sans-serif;
 }
@@ -40,8 +40,8 @@ font-size: 2.3rem;
 
 p{
   border: 2px solid none;
-  height:100px;
-  width:100px;
+  height:80px;
+  width:80px;
   border-radius: 3.2rem;
   margin-top: 2rem;
   display: flex;
@@ -118,5 +118,5 @@ p{
 }
 
 .burger_classify{
-    height: 30vh;
+    height: 20vh;
 }
