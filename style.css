@@ -1,0 +1,122 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-size: 18px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imagesT{
+  display: flex;
+  justify-content: space-between;
+}
+
+.imagesT h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+    width: 5rem;
+    font-family: sans-serif;
+}
+
+.top_burger h1{
+font-size: 2.3rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.top_burger{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+.main_container{
+    width: 100vw;
+    background-color: #ea8d0b;
+}
+
+p{
+  border: 2px solid none;
+  height:100px;
+  width:100px;
+  border-radius: 3.2rem;
+  margin-top: 2rem;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  background-color: red;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-left: 12px;
+}
+
+.main_images{
+    display: flex;
+}
+
+.burgers{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.side_burgers{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.line{
+/*    height: 80vh;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.child_line{
+    height: 2.5rem;
+    width: 12rem;
+    background-color: yellow;
+    margin-top: 1rem;
+}
+
+.item{
+    height: 2rem;
+    width: 5rem;
+    background-color: red;
+    margin-top: 1rem;
+}
+
+.redLines{
+/*    height: 40vh;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3rem;
+}
+
+#main_image{
+    height: 30vh;
+    width: 40vw;
+}
+
+
+
+#i1{
+    height: 12rem;
+    width: 10rem;
+}
+
+#i2{
+    height: 5rem;
+    width: 12rem;
+}
+
+.burger_classify{
+    height: 30vh;
+}
